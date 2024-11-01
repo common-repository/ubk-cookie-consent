@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UBK s.r.o. - cookie consent\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 12:08+0000\n"
+"PO-Revision-Date: 2022-01-17 08:36+0000\n"
+"Last-Translator: Kamil Pešek\n"
+"Language-Team: Čeština\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: ubk-cookie-consent"
+
+#: src/CookieConsentSettings.php:217 src/CookieConsentSettings.php:225
+msgid "Accept all button"
+msgstr "Tlačítko \"Přijmout vše\""
+
+#: src/CookieConsentSettings.php:113
+msgid "Add row"
+msgstr "Přidat řádku"
+
+#: src/CookieConsentSettings.php:319
+msgid "Analytics"
+msgstr "Analytické cookies"
+
+#: src/CookieConsentSettings.php:238
+msgid "Analytics cookies"
+msgstr "Analytické cookies"
+
+#: src/CookieConsentSettings.php:267
+msgid "App javascripts"
+msgstr "Javascripty webové stránky"
+
+#: src/CookieConsentSettings.php:227
+msgid "Close button"
+msgstr "Tlačítko \"Zavřít\""
+
+#: src/CookieConsentSettings.php:213
+msgid "Consent modal"
+msgstr "Cookie lišta"
+
+#: src/CookieConsentSettings.php:45
+msgid "Cookie consent"
+msgstr "Cookie lišta"
+
+#: src/CookieConsentSettings.php:236 src/CookieConsentSettings.php:241
+#: src/CookieConsentSettings.php:246
+msgid "Cookie table"
+msgstr "Přehled cookies"
+
+#: src/CookieConsentSettings.php:119 src/CookieConsentSettings.php:216
+#: src/CookieConsentSettings.php:231 src/CookieConsentSettings.php:235
+#: src/CookieConsentSettings.php:240 src/CookieConsentSettings.php:245
+#: src/CookieConsentSettings.php:455
+msgid "Description"
+msgstr "Popis"
+
+#: src/CookieConsentSettings.php:200
+msgid "Disabled"
+msgstr "Deaktivováno"
+
+#: src/CookieConsentSettings.php:117 src/CookieConsentSettings.php:453
+msgid "Domain"
+msgstr "Doména"
+
+#: src/CookieConsentSettings.php:203
+msgid "Enabled"
+msgstr "Aktivováno"
+
+#: src/CookieConsentSettings.php:118 src/CookieConsentSettings.php:454
+msgid "Expiration"
+msgstr "Platnost"
+
+#: src/CookieConsentSettings.php:280
+msgid "Google Tag Manager ID"
+msgstr "Google Tag Manager ID"
+
+#: src/CookieConsentSettings.php:286
+msgid ""
+"Google Tag Manager will be added automatically with default "
+"analytics_storage=denied & ad_storage=denied "
+msgstr ""
+"Google Tag Manager bude automaticky přidán s výchozím nastavením "
+"analytics_storage=denied & ad_storage=denied "
+
+#: src/CookieConsentSettings.php:215 src/CookieConsentSettings.php:223
+#: src/CookieConsentSettings.php:230 src/CookieConsentSettings.php:234
+#: src/CookieConsentSettings.php:239 src/CookieConsentSettings.php:244
+msgid "Header"
+msgstr "Nadpis"
+
+#. Author URI of the plugin
+msgid "https://www.ubk.cz/"
+msgstr "https://www.ubk.cz/"
+
+#: src/CookieConsentSettings.php:249
+msgid "Iframe placeholder"
+msgstr "Zástupný text pro iframe"
+
+#: src/CookieConsentSettings.php:229
+msgid "Info block"
+msgstr "Informační blok"
+
+#: src/CookieConsentSettings.php:321
+msgid "Marketing"
+msgstr "Marketingové (reklamní) cookies"
+
+#: src/CookieConsentSettings.php:243
+msgid "Marketing cookies"
+msgstr "Marketingové (reklamní) cookies"
+
+#: src/CookieConsentSettings.php:116 src/CookieConsentSettings.php:452
+msgid "Name"
+msgstr "Název"
+
+#: src/CookieConsentSettings.php:317
+msgid "Necessary"
+msgstr "Funkční cookies"
+
+#: src/CookieConsentSettings.php:233
+msgid "Necessary cookies"
+msgstr "Funkční cookies"
+
+#: src/CookieConsentSettings.php:312
+msgid "No data"
+msgstr "Žádná data"
+
+#: src/CookieConsentSettings.php:251
+msgid "Placeholder"
+msgstr "Zástupný text"
+
+#. Description of the plugin
+msgid ""
+"Plugin implements orestbida/cookieconsent cookie consent solution and stores "
+"consents in custom database table."
+msgstr ""
+"Plugin implementuje cookie lištu orestbida/cookieconsent a ukládá souhlasy "
+"do vlastní databázové tabulky."
+
+#: src/CookieConsent.php:158
+#, php-format
+msgid "Plugin requires at least PHP version %s."
+msgstr "Plugin vyžaduje PHP verze nejméně %s."
+
+#: src/CookieConsentSettings.php:218 src/CookieConsentSettings.php:226
+msgid "Reject all button"
+msgstr "Tlačítko \"Odmítnout vše\""
+
+#: src/CookieConsentSettings.php:141
+msgid "Remove row"
+msgstr "Odstranit řádku"
+
+#: src/CookieConsentSettings.php:253 src/CookieConsentSettings.php:291
+msgid "Save"
+msgstr "Uložit"
+
+#: src/CookieConsentSettings.php:224
+msgid "Save settings button"
+msgstr "Tlačítko \"Uložit nastavení\""
+
+#: src/CookieConsentSettings.php:52
+msgid "Settings"
+msgstr "Nastavení"
+
+#: src/CookieConsentSettings.php:221
+msgid "Settings modal"
+msgstr "Modal pro detailní nastavení"
+
+#: src/CookieConsentSettings.php:206
+msgid "Show only for admins"
+msgstr "Zobrazit pouze pro adminy"
+
+#: src/CookieConsentSettings.php:55
+msgid "Statistics"
+msgstr "Statistiky"
+
+#: src/CookieConsentSettings.php:195
+msgid "Status"
+msgstr "Stav"
+
+#: src/CookieConsentSettings.php:49
+msgid "Texts"
+msgstr "Texty"
+
+#. Name of the plugin
+msgid "UBK - cookie consent"
+msgstr "UBK - cookie lišta"
+
+#. Author of the plugin
+msgid "UBK s.r.o."
+msgstr "UBK s.r.o."
